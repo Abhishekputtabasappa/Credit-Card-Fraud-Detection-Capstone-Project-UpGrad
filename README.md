@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-Capstone-Project-UpGrad
+# Credit Card Fraud Detection Capstone Project UpGrad
 
 Dataset [Credit card datset](https://kh3-ls-storage.s3.us-east-1.amazonaws.com/DS%20Project%20Guide%20Data%20Set/creditcard.csv)
 ## Problem Statement:

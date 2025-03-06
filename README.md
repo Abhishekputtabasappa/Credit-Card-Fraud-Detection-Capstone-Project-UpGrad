@@ -21,35 +21,30 @@ The following is recommendation of the steps that should be employed towards att
 We expect you to do your best and submit a solution within 2 weeks. 
 Deliverables 
 Please share the following deliverables in a zip file. 
-	A report (PDF) detailing: 
-	Description of design choices and Performance evaluation of the model 
-	Discussion of future work 
-	The source code used to create the pipeline 
- 
+*	A report (PDF) detailing: 
+*	Description of design choices and Performance evaluation of the model 
+*	Discussion of future work 
+*	The source code used to create the pipeline 
+
 ## Tasks/Activities List 
 Your code should contain the following activities/Analysis: 
-	Collect the time series data from the CSV file linked here. 
-	Exploratory Data Analysis (EDA) - Show the Data quality check, treat the missing values, outliers etc if any. 
-	Get the correct datatype for date. 
-	Balancing the data.
-	Feature Engineering and feature selection. 
-	Train/Test Split - Apply a sampling distribution to find the best split. 
-	Choose the metrics for the model evaluation 
-	Model Selection, Training, Predicting and Assessment 
-	Hyperparameter Tuning/Model Improvement 
-	Model deployment plan. 
+*	Collect the time series data from the CSV file linked here. 
+*	Exploratory Data Analysis (EDA) - Show the Data quality check, treat the missing values, outliers etc if any. 
+*	Get the correct datatype for date. 
+*	Balancing the data.
+*	Feature Engineering and feature selection. 
+*	Train/Test Split - Apply a sampling distribution to find the best split. 
+*	Choose the metrics for the model evaluation 
+*	Model Selection, Training, Predicting and Assessment 
+*	Hyperparameter Tuning/Model Improvement 
+*	Model deployment plan. 
  
 ## Success Metrics 
 Below are the metrics for the successful submission of this case study. 
-	The accuracy of the model on the test data set should be > 75% (Subjective in nature) 
-	Add methods for Hyperparameter tuning. 
-	Perform model validation. 
+*	The accuracy of the model on the test data set should be > 75% (Subjective in nature) 
+*	Add methods for Hyperparameter tuning. 
+*	Perform model validation. 
  
-
 ## Bonus Points 
-	You can package your solution in a zip file included with a README that explains the installation and execution of the end-to-end pipeline. 
-	You can demonstrate your documentation skills by describing how it benefits our company. 
-
-## Data:
-The dataset for this project can be accessed by clicking the link provided below.
-creditcard.csv
+*	You can package your solution in a zip file included with a README that explains the installation and execution of the end-to-end pipeline. 
+*	You can demonstrate your documentation skills by describing how it benefits our company. 
